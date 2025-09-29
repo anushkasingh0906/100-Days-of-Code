@@ -25,3 +25,7 @@ int main() {
 
     return 0;
 }
+
+OUTPUT
+Enter temperature in Celsius: 40
+Temperature in Fahrenheit = 104.00
