@@ -23,3 +23,8 @@ int main() {
     printf("Sum of first %d natural numbers = %d\n", n, sum);
     return 0;
 }
+
+OUTPUT
+Enter n: 6
+Sum of first 6 natural numbers = 21
+
