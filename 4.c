@@ -29,3 +29,9 @@ int main() {
 
     return 0;
 }
+
+OUTPUT:
+Enter radius of circle: 56
+Area = 9852.06
+Circumference = 351.86
+
