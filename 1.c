@@ -24,3 +24,7 @@ int main() {
     printf("Sum = %d\n", sum);
     return 0;
 }
+
+OUTPUT
+Enter two numbers: 14 5
+Sum = 19
