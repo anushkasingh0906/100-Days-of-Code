@@ -30,3 +30,10 @@ int main() {
 
     return 0;
 }
+
+OUTPUT
+Enter two numbers: 14 51
+Sum = 65
+Difference = -37
+Product = 714
+Quotient = 0.27
