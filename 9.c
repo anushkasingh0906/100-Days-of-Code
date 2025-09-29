@@ -29,3 +29,8 @@ int main() {
 
     return 0;
 }
+
+OUTPUT
+Enter principal, rate, and time: 14 37 26
+Simple Interest = 134.68
+Compound Interest = 50204.39
