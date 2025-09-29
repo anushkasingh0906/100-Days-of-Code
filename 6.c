@@ -27,3 +27,7 @@ int main() {
     printf("After swapping: a = %d, b = %d\n", a, b);
     return 0;
 }
+
+OUPUT
+Enter two numbers: 10 8
+After swapping: a = 8, b = 10
