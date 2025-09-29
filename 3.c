@@ -28,3 +28,9 @@ int main() {
 
     return 0;
 } 
+
+OUTPUT:
+Enter length and breadth of rectangle: 12 16
+Area = 192.00
+Perimeter = 56.00
+
