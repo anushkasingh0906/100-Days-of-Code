@@ -17,35 +17,25 @@ Output 2:
 #include<stdio.h>
 int main()
 {
-    int n;
+    int n;          
     printf("Enter a number \n");
     scanf("%d",&n);
-    if(n==0)
+    if(n%2==0)          //check whether a number is even or odd 
     {
-        printf("ZERO");
+        printf("%d is Even",n);
     }
     else
     {
-        if(n<0)
-        {
-            printf("NEGATIVE");
-        }
-        else
-        {
-            printf("POSITIVE");
-        }
+        printf("%d is Odd",n);
     }
 }
 
 OUTPUT
 Enter a number 
-45
-POSITIVE
+22
+22 is Even
 
 Enter a number 
-0
-ZERO
+-9
+-9 is Odd
 
-Enter a number 
--55
-NEGATIVE
